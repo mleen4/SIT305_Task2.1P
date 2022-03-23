@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Task 2.1P</string>
+    <string name="textBoxString">Welcome!</string>
+    <string name="clickMeButtonString">Convert!</string>
+    <string name="inputNameField">Name</string>
+    <string name="enterValue">Enter Value!</string>
+    <string name="valueOne"></string>
+    <string name="valueTwo"></string>
+    <string name="valueThree"></string>
+    <string name="valueOneConvert" />
+    <string name="valueTwoConvert" />
+    <string name="valueThreeConvert" />
+    <string name="weightConvertButton">Weight</string>
+    <string name="temperatureButton">Temp</string>
+    <string-array name="metricArray">
+        <item>Meters</item>
+        <item>Centimeters </item>
+        <item>Inches</item>
+        <item>Feet</item>
+    </string-array>
+
+</resources>
