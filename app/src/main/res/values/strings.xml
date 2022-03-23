@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Task 2.1P</string>
     <string name="textBoxString">Welcome!</string>
-    <string name="clickMeButtonString">Convert!</string>
+    <string name="clickMeButtonString">Measure</string>
     <string name="inputNameField">Name</string>
     <string name="enterValue">Enter Value!</string>
     <string name="valueOne"></string>
