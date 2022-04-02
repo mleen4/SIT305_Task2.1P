@@ -11,6 +11,8 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.SpinnerAdapter;
 import android.widget.TextView;
@@ -25,9 +27,10 @@ public class MainActivity extends AppCompatActivity {
 
     Spinner newSpinner;
 
-    Button clickMeButton;
-    Button weightButton;
-    Button temperatureButton;
+    ImageButton clickMeButton;
+    ImageButton weightButton;
+    ImageButton temperatureButton;
+
     TextView valueOne;
     TextView valueTwo;
     TextView valueThree;
